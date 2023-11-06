@@ -1,7 +1,8 @@
 ### Hi there 👋
 
--🔭 I’m currently working on WOW Aceleradora de Startups | Deal Flow Manager.
--🌱 I’m currently learning  web and iOS development.
+🔭 I’m currently working on WOW Aceleradora de Startups | Deal Flow Manager.
+
+🌱 I’m currently learning  web and iOS development.
 
 <!--
 **deborahzpierosan/deborahzpierosan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
